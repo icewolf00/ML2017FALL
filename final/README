@@ -1,0 +1,10 @@
+packages:
+	pandas
+	numpy
+	jieba
+	gensim
+	subprocess
+	scipy
+	
+how to run:
+	python3 test.py testingdata_path outputfile_path

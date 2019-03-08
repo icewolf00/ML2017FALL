@@ -1,0 +1,9 @@
+word2vec_dim\=32_iter\=35_alpha\=0.025_three_wordsskip_gram
+word2vec_dim\=50_iter\=35_alpha\=0.025skip_gram
+word2vec_dim\=26_iter\=35_alpha\=0.025skip_gram
+word2vec_dim\=32_iter\=30_alpha\=0.025_skip_gram_remove_little_snetence_and_repeat_ones
+word2vec_dim\=32_iter\=40_alpha\=0.025_skip_gram_remove_little_snetence_and_repeat_ones
+word2vec_dim\=64_iter\=30_alpha\=0.025_skip_gram_remove_little_snetence_and_repeat_ones_de
+word2vec_dim\=20_iter\=35_alpha\=0.025skip_gram
+word2vec_dim\=32_iter\=20_alpha\=0.025_skip_gram_remove_little_snetence_and_repeat_ones
+word2vec_dim\=32_iter\=25_alpha\=0.025_skip_gram
